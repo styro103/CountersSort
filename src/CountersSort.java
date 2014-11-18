@@ -23,7 +23,7 @@ public class CountersSort
 		//Fill Array
 		for (int i=0; i<len; i++)
 		{
-			System.out.print("Enter Element "+(i+1)+":");
+			System.out.print("Enter Element "+(i+1)+": ");
 			arr[i] = cin.nextInt();
 		}
 		

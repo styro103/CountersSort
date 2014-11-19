@@ -1,11 +1,12 @@
-import java.util.Arrays;
-import java.util.Scanner;
-
 /*
  * Shaun Mbateng
  * This Program Sorts an Array of Integers in Ascending Order
  * It has a Time Complexity of O(N+M)
  */
+
+import java.util.Arrays;
+import java.util.Scanner;
+
 public class CountersSort 
 {
 	public static void main(String[] args) 
